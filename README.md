@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi there, I'm Kartheek 👋
 
 <div align="center">
@@ -131,18 +129,16 @@ Processing large-scale datasets, feature engineering, and building robust data p
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourportfolio.com)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kartheekbudime)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kartheek-budime/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kartheekbudime.com)
 
 ## ⚡ Fun Facts
 
-- 🌍 Working on predicting space weather events to protect satellites
 - 🎓 Passionate about teaching and sharing knowledge
 - 🏃 Building systems that process 100+ requests per minute
 - 🌙 Dark mode enthusiast (it's in everything I build!)
-- ☕ Powered by coffee and curiosity
+- ☕ Powered by curiosity
 
 ---
 
