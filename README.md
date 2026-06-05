@@ -2,97 +2,101 @@
 
 # Kartheek Budime
 
-**Backend Engineer** • Distributed Systems • Infrastructure
+### **Systems & Backend Engineer**
 
-Building high-performance systems and exploring Bitcoin protocol development
+Building high-performance, low-latency distributed systems and diving into infrastructure internals.
 
-[LinkedIn](https://linkedin.com/in/kartheek-budime) • [Email](mailto:kartheekbudime@gmail.com) • [Medium](https://medium.com/@kartheekbudime)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kartheek-budime)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kartheekbudime@gmail.com)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kartheekbudime)
 
 </div>
 
 ---
 
-## 🚀 Core Projects
+## ⚡ Core Engineering Philosophy
 
-### **GoDis** — Redis Implementation in Go
-Production-ready in-memory key-value store with thread-safe operations and persistence.
-
-```
-Architecture: RESP protocol • LRU eviction • AOF persistence • Concurrent clients
-Performance:  50K+ ops/sec • Sub-ms latency • 10K+ connections
-Stack:        Go • TCP • Goroutines • Custom data structures
-```
-[→ View Repository](https://github.com/kartheek0107/godis)
+I build software with a focus on deep technical precision, zero-cost abstractions, and sub-millisecond efficiency. I prefer building from scratch to truly understand internal mechanisms, specializing in network protocols, concurrency models, and resource optimization.
 
 ---
 
-### **Distributed Task Orchestrator**
-Fault-tolerant job scheduler with distributed locking and failure detection.
+## 🚀 Key Projects
 
-```
-Design:   Platform-agnostic • Redlock algorithm • Worker pooling
-Features: Self-service API • gRPC communication • Auto recovery
-Stack:    Go • Redis • gRPC • Docker
-```
+### 🛠️ **GoDis** | *In-Memory Key-Value Store*
+> A high-performance, production-ready Redis implementation written from scratch in Go.
 
----
+*   **Architecture:** Implemented full custom **RESP protocol** parsing, thread-safe concurrent map structures, and **LRU eviction** algorithms.
+*   **Reliability:** Engineered **AOF (Append-Only File) persistence** to guarantee data durability across restarts.
+*   **Performance:** Benchmarked at **50K+ ops/sec** with sub-millisecond latency under a load of 10K+ concurrent connections via highly optimized Goroutine worker pools.
+*   **Stack:** `Go` • `TCP` • `Goroutines` • `Network Programming`
 
-### **Offline-First Mobile Data Layer**
-Cross-platform sync engine with local-first architecture.
+[👉 View Repository](https://github.com/kartheek0107/godis)
 
-```
-Implementation: SQLDelight • Type-safe queries • Relational operations
-Optimization:   Indexed columns • Mobile performance tuning
-Stack:          Kotlin Multiplatform • SQLite
-```
+### ⛓️ **Distributed Task Orchestrator**
+> A fault-tolerant, high-throughput job scheduler designed for distributed environments.
 
----
+*   **Design:** Built a platform-agnostic worker-pooling model utilizing **gRPC** for low-overhead, strongly-typed internal communication.
+*   **Consistancy:** Integrated the **Redlock algorithm** for robust distributed locking, preventing race conditions across decoupled workers.
+*   **Resilience:** Features proactive failure detection, automated state recovery, and self-service APIs.
+*   **Stack:** `Go` • `Redis` • `gRPC` • `Docker` • `Protobuf`
 
-### **Real-Time Delivery Platform**
-GPS-tracked delivery management with multi-user coordination.
+### 📱 **Offline-First Mobile Data Layer**
+> A cross-platform, deterministic sync engine optimizing local-first architectures.
 
-```
-Features: Geofencing • 5s location updates • FCM notifications
-Stack:    FastAPI • Firebase • React • PostgreSQL
-```
+*   **Implementation:** Developed a type-safe relational operation model using **SQLDelight** to guarantee compile-time query safety.
+*   **Optimization:** Maximized mobile memory performance and disk I/O through meticulous column indexing and query tuning.
+*   **Stack:** `Kotlin Multiplatform (KMP)` • `SQLite` • `SQLDelight`
 
----
+### 📍 **Real-Time Delivery Coordination Platform**
+> High-frequency, event-driven spatial tracking and messaging hub.
 
-## 💼 Experience
-
-**Software Engineer Intern** • *Glexica* • Sep 2025 - Present  
-Backend APIs & data pipelines → 40% latency reduction
-
-**Web Solutions Intern** • *GlobalLogic* • May - July 2025  
-Infrastructure tooling → 99.9% uptime, 15% faster CI/CD
+*   **Capabilities:** Processes low-latency **5-second location updates** with real-time geofencing and multi-user synchronization.
+*   **Stack:** `FastAPI` • `PostgreSQL` • `Firebase Cloud Messaging (FCM)` • `React`
 
 ---
 
-## 🛠️ Tech Stack
+## 💼 Professional Experience
 
-**Systems:** Go • C++ • Python • Kotlin • Java  
-**Backend:** Redis • PostgreSQL • Kafka • gRPC • FastAPI  
-**DevOps:** Docker • Kubernetes • Linux • Git
+#### **Software Engineer Intern** • *Glexica* 
+_September 2025 – January 2026_
+*   Architected mission-critical backend APIs and streaming data pipelines.
+*   Optimized database query paths and payload structures, driving a **40% reduction in system latency**.
+
+#### **Web Solutions Intern** • *GlobalLogic* 
+_May 2025 – July 2025_
+*   Developed automated internal infrastructure tooling to optimize deployment pipelines.
+*   Maintained infrastructure reaching **99.9% uptime** and accelerated CI/CD iteration cycles by **15%**.
 
 ---
 
-## 📚 Currently Learning
+## 🛠️ Technical Ecosystem
 
-→ Distributed consensus (Raft, Paxos)  
-→ Database internals (LSM trees, B+ trees)  
-→ Bitcoin Core ecosystem & protocol development  
-→ Systems programming patterns
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | `Go` • `C++` • `Python` • `Kotlin` • `Java` • `SQL` |
+| **Infrastructure & Backend** | `Redis` • `PostgreSQL` • `Apache Kafka` • `gRPC` • `FastAPI` • `TCP/IP` |
+| **DevOps & Systems** | `Docker` • `Kubernetes` • `Linux (Fedora)` • `Git` • `CI/CD Pipelines` |
+
+---
+
+## 📚 Technical Pursuits & Research Internals
+
+I am constantly diving deeper into systems engineering primitives. Right now, I'm focusing on:
+*   **Distributed Consensus:** Deconstructing the inner workings of `Raft` and `Paxos`.
+*   **Storage Engines:** Analyzing database internals, specifically `LSM Trees` and `B+ Trees`.
+*   **Cryptographic Protocols:** Exploring `Bitcoin Core` architecture and decentralized network layer development.
 
 ---
 
 ## 🎓 Education
 
-**IIIT Sonepat** • Computer Science & Engineering • 2023 - 2027
+*   **Indian Institute of Information Technology (IIIT), Sonepat**  
+    *B.Tech in Computer Science and Engineering* (2023 — 2027)
 
 ---
 
 <div align="center">
 
-*Building infrastructure that scales, one system at a time*
+*“Building infrastructure that scales, one microsecond at a time.”*
 
 </div>
