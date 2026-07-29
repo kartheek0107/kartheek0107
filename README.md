@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+There!+👋; I'm+Kartheek; Systems+%26+Backend+Engineer; Building+Infrastructure+%E2%9C%A8&center=true&size=30&duration=4000&pause=500">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+There!+👋;I'm+Kartheek;Systems+%26+Backend+Engineer;Building+Infrastructure+%E2%9C%A8&center=true&size=30&duration=4000&pause=500">
   </a>
 </h1>
 
@@ -158,15 +158,17 @@ _May 2025 – July 2025_
 
 ---
 
-<h2 align="center">📊 GitHub Activity</h2>
+<h2 align="center">📊 GitHub Presence</h2>
 
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kartheek0107&show_icons=true&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kartheek0107&layout=compact&theme=dark&hide_border=true)
-
-</div>
+<p align="center">
+  <a href="https://github.com/kartheek0107?tab=repositories">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/kartheek0107?style=social">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/kartheek0107">
+    <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/kartheek0107?style=social">
+  </a>
+</p>
 
 ---
 
