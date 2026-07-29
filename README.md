@@ -1,26 +1,83 @@
-<div align="center">
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+There!+👋;I'm+Kartheek;Systems+%26+Backend+Engineer;Building+Infrastructure+%E2%9C%A8&center=true&size=30&duration=4000&pause=500">
+  </a>
+</h1>
 
-# Kartheek Budime
+<h5 align="center">
+  <code><a href="https://linkedin.com/in/kartheek-budime" title="LinkedIn Profile"><img width="22" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"> LinkedIn</a></code>
+  <code><a href="https://github.com/kartheek0107" title="Github Profile"><img width="22" src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"> GitHub</a></code>
+  <code><a href="mailto:kartheekbudime@gmail.com" title="Email"><img width="22" src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"> Email</a></code>
+  <code><a href="https://medium.com/@kartheekbudime" title="Blog"><img width="22" src="https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white"> Blog</a></code>
+</h5>
 
-### **Systems & Backend Engineer**
+<br>
 
-Building high-performance, low-latency distributed systems and diving into infrastructure internals.
+<p align="center">
+  <b>Systems & Backend Engineer</b> at <a href="https://www.iiits.ac.in/">IIIT Sonepat</a>
+  <br>
+  Building high-performance, low-latency distributed systems and diving deep into infrastructure internals.
+  <br><br>
+  🔬 <b>Focus:</b> Deep technical precision, zero-cost abstractions, sub-millisecond efficiency
+  <br>
+  💬 <b>Ask me anything:</b> <a href="https://github.com/kartheek0107/kartheek0107/issues">Open an Issue</a>
+  <br>
+  📫 <b>Reach out:</b> <a href="mailto:kartheekbudime@gmail.com">kartheekbudime@gmail.com</a>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kartheek-budime)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kartheekbudime@gmail.com)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kartheekbudime)
+<hr>
 
-</div>
+<h2 align="center">⚡ Core Engineering Philosophy</h2>
 
----
+<p align="center">
+  I build software with a focus on <b>deep technical precision</b>, <b>zero-cost abstractions</b>, and <b>sub-millisecond efficiency</b>. I prefer building from scratch to truly understand internal mechanisms, specializing in <b>network protocols</b>, <b>concurrency models</b>, and <b>resource optimization</b>.
+</p>
 
-## ⚡ Core Engineering Philosophy
+<hr>
 
-I build software with a focus on deep technical precision, zero-cost abstractions, and sub-millisecond efficiency. I prefer building from scratch to truly understand internal mechanisms, specializing in network protocols, concurrency models, and resource optimization.
+<h2 align="center">🔥 Languages & Frameworks & Tools 🔥</h2>
+<br>
 
----
+<h3 align="center">Languages</h3>
+<p align="center">
+  <code><img title="Go" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"></code>
+  <code><img title="C++" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code>
+  <code><img title="Python" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
+  <code><img title="Kotlin" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg"></code>
+  <code><img title="Java" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></code>
+  <code><img title="SQL" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"></code>
+</p>
 
-## 🚀 Key Projects
+<h3 align="center">Backend & Infrastructure</h3>
+<p align="center">
+  <code><img title="Redis" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg"></code>
+  <code><img title="PostgreSQL" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"></code>
+  <code><img title="Apache Kafka" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg"></code>
+  <code><img title="gRPC" height="35" src="https://img.shields.io/badge/gRPC-244c5a?logo=grpc&logoColor=white&style=flat"></code>
+  <code><img title="FastAPI" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg"></code>
+  <code><img title="TCP/IP" height="35" src="https://img.shields.io/badge/TCP/IP-FF6B35?style=flat"></code>
+</p>
+
+<h3 align="center">DevOps & Systems</h3>
+<p align="center">
+  <code><img title="Docker" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"></code>
+  <code><img title="Kubernetes" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg"></code>
+  <code><img title="Linux" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></code>
+  <code><img title="Git" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></code>
+  <code><img title="QEMU" height="35" src="https://img.shields.io/badge/QEMU-FF6D00?style=flat"></code>
+</p>
+
+<h3 align="center">Web & Frontend</h3>
+<p align="center">
+  <code><img title="React" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></code>
+  <code><img title="TypeScript" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></code>
+  <code><img title="HTML5" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>
+  <code><img title="CSS" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code>
+</p>
+
+<hr>
+
+<h2 align="center">🚀 Key Projects</h2>
 
 ### 🛠️ **GoDis** | *In-Memory Key-Value Store*
 > A high-performance, production-ready Redis implementation written from scratch in Go.
@@ -36,7 +93,7 @@ I build software with a focus on deep technical precision, zero-cost abstraction
 > A fault-tolerant, high-throughput job scheduler designed for distributed environments.
 
 *   **Design:** Built a platform-agnostic worker-pooling model utilizing **gRPC** for low-overhead, strongly-typed internal communication.
-*   **Consistancy:** Integrated the **Redlock algorithm** for robust distributed locking, preventing race conditions across decoupled workers.
+*   **Consistency:** Integrated the **Redlock algorithm** for robust distributed locking, preventing race conditions across decoupled workers.
 *   **Resilience:** Features proactive failure detection, automated state recovery, and self-service APIs.
 *   **Stack:** `Go` • `Redis` • `gRPC` • `Docker` • `Protobuf`
 
@@ -53,9 +110,31 @@ I build software with a focus on deep technical precision, zero-cost abstraction
 *   **Capabilities:** Processes low-latency **5-second location updates** with real-time geofencing and multi-user synchronization.
 *   **Stack:** `FastAPI` • `PostgreSQL` • `Firebase Cloud Messaging (FCM)` • `React`
 
+### 🖥️ **DVF (Device Validation Framework)**
+> A QEMU-based driver validation platform for systematic testing of hardware abstractions.
+
+*   **Purpose:** Enables kernel driver developers to validate reconfiguration correctness in CGRA accelerators through isolated test environments.
+*   **Features:** Custom QOM PCI device implementation, comprehensive test harness, and automated validation workflows.
+*   **Stack:** `QEMU` • `C` • `Device Drivers` • `Systems Programming`
+
+[👉 View Repository](https://github.com/kartheek0107/dvf)
+
 ---
 
-## 💼 Professional Experience
+<h2 align="center">📚 Research & Academic Work</h2>
+
+**IEEE Signal Processing Letters** (Published)
+- Co-authored publication on **Quaternion Discrete Linear Canonical Transform (DQLCT)**
+
+**Active Research Areas:**
+*   **ALS Dysarthria Detection:** Deep Quaternion LSTM-CNN framework for speech disorder classification
+*   **OTFS-Based FANET Routing:** Novel routing protocols for Flying Ad-Hoc Networks using Orthogonal Time-Frequency Space modulation
+*   **Reconfigurable Computing:** Exploring CGRA architectures and dynamic reconfiguration mechanisms
+*   **Edge AI:** Lightweight deep learning models for medical diagnosis on resource-constrained devices
+
+---
+
+<h2 align="center">💼 Professional Experience</h2>
 
 #### **Software Engineer Intern** • *Glexica* 
 _September 2025 – January 2026_
@@ -69,34 +148,39 @@ _May 2025 – July 2025_
 
 ---
 
-## 🛠️ Technical Ecosystem
+<h2 align="center">🎓 Education</h2>
 
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | `Go` • `C++` • `Python` • `Kotlin` • `Java` • `SQL` |
-| **Infrastructure & Backend** | `Redis` • `PostgreSQL` • `Apache Kafka` • `gRPC` • `FastAPI` • `TCP/IP` |
-| **DevOps & Systems** | `Docker` • `Kubernetes` • `Linux (Fedora)` • `Git` • `CI/CD Pipelines` |
-
----
-
-## 📚 Technical Pursuits & Research Internals
-
-I am constantly diving deeper into systems engineering primitives. Right now, I'm focusing on:
-*   **Distributed Consensus:** Deconstructing the inner workings of `Raft` and `Paxos`.
-*   **Storage Engines:** Analyzing database internals, specifically `LSM Trees` and `B+ Trees`.
-*   **Cryptographic Protocols:** Exploring `Bitcoin Core` architecture and decentralized network layer development.
+<p align="center">
+  <b>Indian Institute of Information Technology (IIIT), Sonepat</b>
+  <br>
+  <i>B.Tech in Computer Science and Engineering</i> (2023 — 2027)
+  <br>
+  Advisor: <a href="https://iiits.ac.in/index.php/dr-mohan-bansal/">Dr. Mohan Bansal</a>
+</p>
 
 ---
 
-## 🎓 Education
+<h2 align="center">📊 GitHub Activity</h2>
 
-*   **Indian Institute of Information Technology (IIIT), Sonepat**  
-    *B.Tech in Computer Science and Engineering* (2023 — 2027)
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kartheek0107&show_icons=true&theme=dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kartheek0107&layout=compact&theme=dark&hide_border=true)
+
+</div>
 
 ---
 
 <div align="center">
 
-*“Building infrastructure that scales, one microsecond at a time.”*
+### 🔗 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kartheek-budime)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kartheek0107)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kartheekbudime@gmail.com)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kartheekbudime)
+
+*"Building infrastructure that scales, one microsecond at a time."*
 
 </div>
