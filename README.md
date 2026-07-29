@@ -154,8 +154,6 @@ _May 2025 – July 2025_
   <b>Indian Institute of Information Technology (IIIT), Sonepat</b>
   <br>
   <i>B.Tech in Computer Science and Engineering</i> (2023 — 2027)
-  <br>
-  Advisor: <a href="https://iiits.ac.in/index.php/dr-mohan-bansal/">Dr. Mohan Bansal</a>
 </p>
 
 ---
