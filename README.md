@@ -1,85 +1,143 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+There!+👋;I'm+Kartheek+✨&center=true&size=30&duration=4000&pause=500">
-  </a>
-</h1>
+<!-- HERO -->
 
-<h5 align="center">
-  <code><a href="https://linkedin.com/in/kartheek-budime" title="LinkedIn Profile"><img width="22" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"> LinkedIn</a></code>
-  <code><a href="https://github.com/kartheek0107" title="Github Profile"><img width="22" src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"> GitHub</a></code>
-  <code><a href="mailto:kartheekbudime@gmail.com" title="Email"><img width="22" src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"> Email</a></code>
-</h5>
+<div align="center">
 
-<br>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+There!+👋;I'm+Kartheek+✨&center=true&size=32&duration=4000&pause=500" alt="Typing SVG" />
+</a>
 
-<p align="center">
-  <b>Systems & Backend Engineer</b> at <a href="https://www.iiits.ac.in/">IIIT Sonepat</a>
-  <br>
-  Building high-performance, low-latency distributed systems and diving deep into infrastructure internals.
-</p>
+<br/>
 
-<hr>
+<b>Systems & Backend Engineer</b> at <a href="https://www.iiits.ac.in/">IIIT Sonepat</a>
 
-<h2 align="center">🔥 Languages & Frameworks & Tools 🔥</h2>
-<br>
+<br/>
 
-<h3 align="center">Languages</h3>
-<p align="center">
-  <code><img title="Go" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"></code>
-  <code><img title="C++" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code>
-  <code><img title="Python" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
-  <code><img title="Kotlin" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg"></code>
-  <code><img title="Java" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></code>
-  <code><img title="SQL" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"></code>
-</p>
+<i>Building high-performance, low-latency distributed systems<br/>
+and diving deep into infrastructure internals.</i>
 
-<h3 align="center">Backend & Infrastructure</h3>
-<p align="center">
-  <code><img title="Redis" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg"></code>
-  <code><img title="PostgreSQL" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"></code>
-  <code><img title="Apache Kafka" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg"></code>
-  <code><img title="gRPC" height="35" src="https://img.shields.io/badge/gRPC-244c5a?logo=grpc&logoColor=white&style=flat"></code>
-  <code><img title="FastAPI" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg"></code>
-</p>
+<br/><br/>
 
-<h3 align="center">DevOps & Systems</h3>
-<p align="center">
-  <code><img title="Docker" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"></code>
-  <code><img title="Kubernetes" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg"></code>
-  <code><img title="Linux" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></code>
-  <code><img title="Git" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></code>
-  <code><img title="QEMU" height="35" src="https://img.shields.io/badge/QEMU-FF6D00?style=flat"></code>
-</p>
+<a href="https://linkedin.com/in/kartheek-budime">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://github.com/kartheek0107">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:kartheekbudime@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-<h3 align="center">Web & Frontend</h3>
-<p align="center">
-  <code><img title="React" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></code>
-  <code><img title="TypeScript" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></code>
-  <code><img title="HTML5" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>
-  <code><img title="CSS" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code>
-</p>
+</div>
 
-<hr>
+<br/>
 
+---
 
-<h2 align="center">🎓 Education</h2>
+<!-- TECH STACK -->
 
-<p align="center">
-  <b>Indian Institute of Information Technology (IIIT), Sonepat</b>
-  <br>
-  <i>B.Tech in Computer Science and Engineering</i> (2023 — 2027)
-</p>
+## ⚙️ Tech Stack
 
-<hr>
+<div align="center">
+
+### Languages
+
+<img title="Go" height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" />
+&nbsp;&nbsp;&nbsp;
+<img title="C++" height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
+&nbsp;&nbsp;&nbsp;
+<img title="Python" height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+&nbsp;&nbsp;&nbsp;
+<img title="Kotlin" height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" />
+&nbsp;&nbsp;&nbsp;
+<img title="Java" height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
+&nbsp;&nbsp;&nbsp;
+<img title="SQL" height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" />
+
+<br/><br/>
+
+### Backend & Infrastructure
+
+<img title="Redis" height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" />
+&nbsp;&nbsp;&nbsp;
+<img title="PostgreSQL" height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" />
+&nbsp;&nbsp;&nbsp;
+<img title="Apache Kafka" height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" />
+&nbsp;&nbsp;&nbsp;
+<img title="gRPC" height="42" src="https://img.shields.io/badge/gRPC-244c5a?logo=grpc&logoColor=white&style=flat" />
+&nbsp;&nbsp;&nbsp;
+<img title="FastAPI" height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" />
+
+<br/><br/>
+
+### DevOps & Systems
+
+<img title="Docker" height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
+&nbsp;&nbsp;&nbsp;
+<img title="Kubernetes" height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" />
+&nbsp;&nbsp;&nbsp;
+<img title="Linux" height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
+&nbsp;&nbsp;&nbsp;
+<img title="Git" height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
+&nbsp;&nbsp;&nbsp;
+<img title="QEMU" height="42" src="https://img.shields.io/badge/QEMU-FF6D00?style=flat" />
+
+<br/><br/>
+
+### Web & Frontend
+
+<img title="React" height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
+&nbsp;&nbsp;&nbsp;
+<img title="TypeScript" height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
+&nbsp;&nbsp;&nbsp;
+<img title="HTML5" height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+&nbsp;&nbsp;&nbsp;
+<img title="CSS" height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
+
+</div>
+
+<br/>
+
+---
+
+<!-- EDUCATION -->
+
+## 🎓 Education
+
+<div align="center">
+
+### Indian Institute of Information Technology (IIIT), Sonepat
+
+<i>B.Tech in Computer Science and Engineering</i>
+2023 — 2027
+
+</div>
+
+<br/>
+
+---
+
+<!-- FOOTER -->
 
 <div align="center">
 
 ### 🔗 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kartheek-budime)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kartheek0107)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kartheekbudime@gmail.com)
+<a href="https://linkedin.com/in/kartheek-budime">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://github.com/kartheek0107">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:kartheekbudime@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-*"Building infrastructure that scales, one microsecond at a time."*
+<br/><br/>
+
+<i>“Building infrastructure that scales, one microsecond at a time.”</i>
 
 </div>
