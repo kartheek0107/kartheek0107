@@ -7,7 +7,7 @@
 </a>
 
 <p align="center">
-  <b>Systems & Backend Engineer</b> at <a href="https://www.iiits.ac.in/"><b>IIIT Sonepat</b></a>
+  <b>Systems & Backend Engineer</b> at <a href="https://www.iiitssonepat.ac.in/"><b>IIIT Sonepat</b></a>
   <br>
   <i>Building high-performance, low-latency distributed systems and diving deep into infrastructure internals.</i>
 </p>
