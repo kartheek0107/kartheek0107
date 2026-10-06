@@ -20,11 +20,9 @@
 
 ### 🔬 Currently
 
-- ⚙️ System Software Research Intern @ **C-DAC Bengaluru** — compiler & runtime development for CGRAs (Coarse-Grained Reconfigurable Architectures), Verilog RTL
-- 📄 IEEE-published researcher — signal processing (quaternion transforms, speech/dysarthria detection), edge AI
-- 🧩 Founding Chair, **IEEE Student Branch @ IIIT Sonepat** — building an applied engineering challenge program with industry partners (FlytBase)
-- 🛰️ Applicant, **CNCF LFX Mentorship** — GPU memory isolation (HAMi project)
-- 🧠 Deepening foundations in algorithms (CLRS) and computer systems (CSAPP) — depth over breadth, no shortcuts
+- System Software Research Intern @ **C-DAC Bengaluru** — compiler & runtime development for CGRAs (Coarse-Grained Reconfigurable Architectures), Verilog RTL
+- IEEE-published researcher — signal processing (quaternion transforms, speech/dysarthria detection), edge AI
+- Founding Chair, **IEEE Student Branch @ IIIT Sonepat** 
 
 ---
 
